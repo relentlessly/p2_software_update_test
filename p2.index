@@ -1,3 +1,4 @@
+#Thu Nov 06 19:46:02 EST 2025
+artifact.repository.factory.order=artifacts.xml.xz,artifacts.xml,\!
 version=1
-artifact.repository.factory.order=compositeArtifacts.xml,\!
-metadata.repository.factory.order=compositeContent.xml,\!
+metadata.repository.factory.order=content.xml.xz,content.xml,\!
